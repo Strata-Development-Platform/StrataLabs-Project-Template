@@ -1,20 +1,20 @@
 {
   "$schemaVersion": 1,
-  "displayName": "REPLACE_ME",
-  "shortDescription": "REPLACE_ME: one sentence describing the project.",
-  "longDescription": "REPLACE_ME: a concise public overview of the problem, audience, and solution.",
-  "category": "library",
+  "displayName": "StrataLabs Project Template",
+  "shortDescription": "The official starting point for open-source projects published through StrataLabs.",
+  "longDescription": "A reusable repository structure demonstrating the metadata, roadmap, documentation, release, security, and contribution files required for a project to appear correctly across the StrataLabs website.",
+  "category": "documentation",
   "lifecycle": "incubating",
   "featured": false,
-  "weight": 100,
+  "weight": 900,
   "documentation": {
     "entry": "docs/index.md"
   },
   "links": {
-    "website": null,
+    "website": "https://stratadevplatform.net/docs",
     "docker": null,
     "package": null,
     "discussions": null,
-    "support": null
+    "support": "https://github.com/Strata-Development-Platform/StrataLabs-Project-Template/issues"
   }
 }
