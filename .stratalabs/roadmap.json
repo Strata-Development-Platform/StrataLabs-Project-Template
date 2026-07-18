@@ -1,0 +1,15 @@
+{
+  "$schemaVersion": 1,
+  "status": "planning",
+  "summary": "REPLACE_ME: describe the current roadmap focus.",
+  "timeline": "REPLACE_ME",
+  "milestones": [
+    {
+      "id": "first-public-release",
+      "title": "First public release",
+      "target": "REPLACE_ME",
+      "status": "planned",
+      "description": "REPLACE_ME"
+    }
+  ]
+}
