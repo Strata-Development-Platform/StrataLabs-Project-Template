@@ -1,15 +1,36 @@
 {
   "$schemaVersion": 1,
-  "status": "planning",
-  "summary": "REPLACE_ME: describe the current roadmap focus.",
-  "timeline": "REPLACE_ME",
+  "status": "active",
+  "summary": "Establish and refine the standard repository contract used by every public StrataLabs project.",
+  "timeline": "Q3 2026 — Q4 2026",
   "milestones": [
     {
-      "id": "first-public-release",
-      "title": "First public release",
-      "target": "REPLACE_ME",
+      "id": "metadata-contract",
+      "title": "Publish the project metadata contract",
+      "target": "Q3 2026",
+      "status": "complete",
+      "description": "Define the identity, lifecycle, documentation, ordering, and external-link fields consumed by StrataLabs."
+    },
+    {
+      "id": "roadmap-contract",
+      "title": "Publish the roadmap contract",
+      "target": "Q3 2026",
+      "status": "complete",
+      "description": "Define stable roadmap and milestone fields for hourly website synchronization."
+    },
+    {
+      "id": "validation-tooling",
+      "title": "Add automated metadata validation",
+      "target": "Q4 2026",
       "status": "planned",
-      "description": "REPLACE_ME"
+      "description": "Validate project and roadmap JSON during pull requests."
+    },
+    {
+      "id": "migration-examples",
+      "title": "Add real project migration examples",
+      "target": "Q4 2026",
+      "status": "planned",
+      "description": "Document representative migrations for libraries, applications, CLIs, and integrations."
     }
   ]
 }
