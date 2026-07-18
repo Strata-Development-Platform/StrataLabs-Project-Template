@@ -1,0 +1,20 @@
+{
+  "$schemaVersion": 1,
+  "displayName": "REPLACE_ME",
+  "shortDescription": "REPLACE_ME: one sentence describing the project.",
+  "longDescription": "REPLACE_ME: a concise public overview of the problem, audience, and solution.",
+  "category": "library",
+  "lifecycle": "incubating",
+  "featured": false,
+  "weight": 100,
+  "documentation": {
+    "entry": "docs/index.md"
+  },
+  "links": {
+    "website": null,
+    "docker": null,
+    "package": null,
+    "discussions": null,
+    "support": null
+  }
+}
